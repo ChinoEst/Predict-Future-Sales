@@ -6,13 +6,13 @@ Email:a27689259@gmail.com          kaggle: https://www.kaggle.com/chinoest
 利用以往的每日銷售數據組成的時間序列資料集，訓練一個模型，用以預測下個月每種商品和商店的銷售量。
 
 
-# Data Observations and Preprocessing
+# Data Observations 
 ![image](https://user-images.githubusercontent.com/92312732/175765172-32f04877-531f-42b2-a9a8-102c89563cef.png)
 outline
 
 ![image](https://user-images.githubusercontent.com/92312732/175765221-b972bcbe-ff62-497a-9635-f786ec84b570.png)
 
-# Data Observations and Preprocessing 
+# Data Preprocessing 
 
 商品名按字母順序排列->相同系列的商品會被放在一起(用fuzzywuzzy比較相似度進行分類)
 
@@ -50,5 +50,7 @@ lightGBM https://en.wikipedia.org/wiki/LightGBM
 # Try and Error
 
 without any lag, with 1 lag, with all lag
+
 del some importance features
+
 only reserve importance features
