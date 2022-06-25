@@ -47,3 +47,9 @@ XGBoost https://zh.wikipedia.org/wiki/XGBoost
 
 lightGBM https://en.wikipedia.org/wiki/LightGBM
 
+
+# Try and Error
+
+without any lag, with 1 lag, with all lag
+del some importance features
+only reserve importance features
