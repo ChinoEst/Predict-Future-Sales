@@ -11,3 +11,8 @@ item_categories.csv  - supplemental information about the items categories.
 
 shops.csv- supplemental information about the shops.
 
+
+
+
+sales_train.csv and shops.csv are too big to upload.
+please download by kaggle competitions download -c competitive-data-science-predict-future-sales
