@@ -1,6 +1,5 @@
 ID: P76101657  
-Email:a27689259@gmail.com 
-kaggle: https://www.kaggle.com/chinoest
+Email:a27689259@gmail.com          kaggle: https://www.kaggle.com/chinoest
 
 # introduction
 
